@@ -1,0 +1,23 @@
+.button{
+    margin-top: 30px;
+    margin-left: 440px;
+}
+.hero{
+    position: absolute;
+    width: 1200px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.btn{
+    border:1px solid wheat;
+    padding: 10px 10px;
+    color: wheat;
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+.btn-one{
+    background-color: darkorange;
+    font-family: "roboto", sans-serif;
+}
